@@ -1,5 +1,5 @@
 Obtener el área de un triangulo rectangulo interno a otro, conformado por 
-las perpendiculares de la hipotenusa y el cateto mayor del triangulo externo.
+las perpendiculares de la hipotenusa y el cateto menor del triangulo externo.
 Se deben ingresar por teclado las componentes X y Y de los puntos que conforman
 el triangulo exterior y se debe validar que el mismo sea un triangulo rectangulo.
 
